@@ -1,0 +1,24 @@
+.search-input{
+	position:relative;
+	display:block;
+	width:200px;
+	height:20px;
+}
+.search-box{
+	width:200px;
+	height:auto;
+}
+.search-box ul{
+	width:200px;
+	height:auto;
+	margin-left:0px;
+	border:1px solid #4bc9c8;
+	list-style-type: none;
+}
+.search-box ul li{
+	display: block;
+	cursor:pointer;
+}
+.search-box ul li:hover{
+	background:#eee;
+}
